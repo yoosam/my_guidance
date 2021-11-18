@@ -1,0 +1,19 @@
+.Modal {
+  position: fixed;
+  width: 70%;
+  height: 70%;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: rgb(224, 241, 178);
+  box-shadow: 5px 10px 10px 1px rgba(0, 0, 0, 0.3);
+  top: 15%;
+  left: 15%;
+  font-size: 30px;
+  padding: 10px;
+}
+.questionTable {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  font-size: 25px;
+}

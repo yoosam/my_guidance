@@ -1,0 +1,20 @@
+.Headerbar {
+  display: flex;
+  justify-content: space-between;
+}
+.Section {
+  display: flex;
+}
+.link {
+  border-right: 1px solid gray;
+  padding: 10px;
+  margin: 10px;
+}
+/* .FAQ{
+    border:1px solid yellow;
+    background-color: red;
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+
+} */

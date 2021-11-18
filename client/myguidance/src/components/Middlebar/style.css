@@ -1,0 +1,32 @@
+.Middlebar {
+  margin: 10px;
+}
+
+.table {
+  max-width: none;
+  display: flex;
+  /* justify-content: space-evenly; */
+}
+
+.column {
+  height: 200px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid grey;
+  background-color: rgb(139, 139, 139);
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+}
+
+/* .FAQ{
+      display: flex;
+      justify-content: space-between;
+      border:1px solid yellow;
+      background-color: red;
+      font-size: 20px;
+      font-weight: bold;
+      color: blue;
+  
+  } */

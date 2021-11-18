@@ -1,0 +1,15 @@
+.Menubar {
+  display: flex;
+  justify-content: space-between;
+}
+.category {
+  display: flex;
+}
+.category > div {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.category > div::after {
+  content: "\25ff";
+}

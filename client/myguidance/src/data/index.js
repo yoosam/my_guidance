@@ -1,0 +1,97 @@
+export const surveyList = [
+  {
+    type: "성격",
+    testname: "자아존중감검사",
+    questionCnt: 10,
+    target: "아동/청소년",
+    testList: [
+      { question: "나는 부모님, 선생님, 친구로부터 사랑을 받고 있는 편이다." },
+      { question: "나의 미래는 밝은 편이며, 더 나아지려고 노력하고 있다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+    ],
+  },
+  {
+    type: "정신건강",
+    testname: "직무스트레스",
+    questionCnt: 72,
+    target: "성인",
+    testList: [
+      { question: "나는 부모님, 선생님, 친구로부터 사랑을 받고 있는 편이다." },
+      { question: "나의 미래는 밝은 편이며, 더 나아지려고 노력하고 있다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+    ],
+  },
+  {
+    type: "진로직업학습",
+    testname: "진로적성검사",
+    questionCnt: 40,
+    target: "아동/청소년",
+    testList: [
+      { question: "나는 부모님, 선생님, 친구로부터 사랑을 받고 있는 편이다." },
+      { question: "나의 미래는 밝은 편이며, 더 나아지려고 노력하고 있다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+    ],
+  },
+  {
+    type: "진로직업학습",
+    testname: "학습유형검사",
+    questionCnt: 50,
+    target: "아동/청소년/성인",
+    testList: [
+      { question: "나는 부모님, 선생님, 친구로부터 사랑을 받고 있는 편이다." },
+      { question: "나의 미래는 밝은 편이며, 더 나아지려고 노력하고 있다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+    ],
+  },
+  {
+    type: "연애결혼육아",
+    testname: "부모양육유형검사",
+    questionCnt: 72,
+    target: "성인",
+    testList: [
+      { question: "나는 부모님, 선생님, 친구로부터 사랑을 받고 있는 편이다." },
+      { question: "나의 미래는 밝은 편이며, 더 나아지려고 노력하고 있다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+    ],
+  },
+  {
+    type: "연애결혼육아",
+    testname: "애착유형검사",
+    questionCnt: 72,
+    target: "아동/청소년/성인",
+    testList: [
+      { question: "나는 부모님, 선생님, 친구로부터 사랑을 받고 있는 편이다." },
+      { question: "나의 미래는 밝은 편이며, 더 나아지려고 노력하고 있다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+    ],
+  },
+  {
+    type: "대인관계",
+    testname: "의사소통유형검사",
+    questionCnt: 10,
+    target: "성인",
+    testList: [
+      { question: "나는 부모님, 선생님, 친구로부터 사랑을 받고 있는 편이다." },
+      { question: "나의 미래는 밝은 편이며, 더 나아지려고 노력하고 있다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+    ],
+  },
+  {
+    type: "대인관계",
+    testname: "문제대처유형검사",
+    questionCnt: 72,
+    target: "성인",
+    testList: [
+      { question: "나는 부모님, 선생님, 친구로부터 사랑을 받고 있는 편이다." },
+      { question: "나의 미래는 밝은 편이며, 더 나아지려고 노력하고 있다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+      { question: "대체로 나는 현재의 나 자신에 대해 만족한다." },
+    ],
+  },
+];

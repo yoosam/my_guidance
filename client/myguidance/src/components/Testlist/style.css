@@ -1,0 +1,18 @@
+.Testlist {
+  display: table;
+  border: 1px solid #4b4e63;
+  width: 100%;
+}
+.Table-row {
+  display: table-row;
+  align-items: center;
+  border: 1px solid red;
+}
+.T-cell {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  height: 50px;
+  width: 50px;
+  border: 1px solid red;
+}
